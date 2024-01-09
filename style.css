@@ -171,6 +171,12 @@ section {
   font-size: 1.75rem;
   margin-bottom: 1rem;
 }
+.section__text__p2:hover {
+  /* padding: 5px; */
+  background-color: black;
+  color: white;
+  cursor: default;
+}
 
 .title {
   font-size: 3rem;
@@ -360,6 +366,20 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+.more-projects-container{
+  text-align: center;
+}
+.see-more-btn{
+  background-color: rgb(78, 71, 71);
+  color: white;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+.see-more-btn:hover{
+  cursor: pointer;
+  background-color: black;
+}
 /* CONTACT */
 
 #contact {
