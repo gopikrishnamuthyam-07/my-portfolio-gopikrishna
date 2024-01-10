@@ -366,17 +366,17 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
-.more-projects-container{
+.more-projects-container {
   text-align: center;
 }
-.see-more-btn{
+.see-more-btn {
   background-color: rgb(78, 71, 71);
   color: white;
   padding: 12px;
   border-radius: 10px;
 }
 
-.see-more-btn:hover{
+.see-more-btn:hover {
   cursor: pointer;
   background-color: black;
 }
