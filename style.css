@@ -195,6 +195,9 @@ section {
   height: 2rem;
 }
 
+/* maark */
+
+
 /* Buttons */
 
 .btn-container {
@@ -336,7 +339,7 @@ article .icon {
 
 .certification-link {
   color: blue;
-  text-decoration: underline;
+  /* text-decoration: underline; */
   font-weight: lighter;
 }
 
